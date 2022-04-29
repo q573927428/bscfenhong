@@ -6,11 +6,11 @@ https://github.com/tmimehi/dividendcontract/blob/main/dividendcontract.sol
 
 # 如果遇到问题可联系TG：
 
-https://t.me/zvx_Staff
+https://t.me/zvx_Stafff
 
 # TG电报群交流群
 
-https://t.me/ZVX_Official
+https://t.me/ZVX_Officialf
 
 # Remix
 
