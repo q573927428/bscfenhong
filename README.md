@@ -2,7 +2,7 @@
 
 支持分红SHIB/ETH/USDT/DOGE等BSC所有代币。
 # 源码：
-https://github.com/tmimehi/dividendcontract/blob/main/dividendcontract.sol
+https://github.com/q573927428/bscfenhong/blob/main/dividendcontract.sol
 
 # 如果遇到问题可联系TG：
 
@@ -71,7 +71,7 @@ CAKE: 0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82
 
 3，输入合约地址
 
-https://github.com/tmimehi/dividendcontract/blob/main/dividendcontract.sol
+https://github.com/q573927428/bscfenhong/blob/main/dividendcontract.sol
 
 4，点击import
 
